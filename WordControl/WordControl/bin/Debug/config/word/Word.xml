@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<WordStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WordList>
+    <Word>
+      <JpWord>12</JpWord>
+      <Jp2Word>123</Jp2Word>
+      <CnWord>asfd</CnWord>
+      <Example>
+        <string>sdf</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>12</JpWord>
+      <Jp2Word>123</Jp2Word>
+      <CnWord>asfd</CnWord>
+      <Example>
+        <string>sdf</string>
+        <string>sdf</string>
+        <string>fgh</string>
+        <string>fghk</string>
+        <string>电饭煲vc</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>12</JpWord>
+      <Jp2Word>123</Jp2Word>
+      <CnWord>asfd</CnWord>
+      <Example>
+        <string>sdf</string>
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>12</JpWord>
+      <Jp2Word>123</Jp2Word>
+      <CnWord>asfd</CnWord>
+      <Example>
+        <string>sdf</string>
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>12</JpWord>
+      <Jp2Word>123</Jp2Word>
+      <CnWord>asfd</CnWord>
+      <Example>
+        <string>sdf</string>
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>12</JpWord>
+      <Jp2Word>123</Jp2Word>
+      <CnWord>asfd</CnWord>
+      <Example>
+        <string>sdf</string>
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>灌灌灌灌灌</JpWord>
+      <Jp2Word>是地方噶速度</Jp2Word>
+      <CnWord>是地方噶的双方各</CnWord>
+      <Example>
+        <string>的非常改变vsdfg</string>
+        <string />
+      </Example>
+    </Word>
+  </WordList>
+</WordStore>

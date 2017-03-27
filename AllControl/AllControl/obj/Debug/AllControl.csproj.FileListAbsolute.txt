@@ -1,0 +1,9 @@
+E:\01_workspace\ｃ＃\AllControl\AllControl\bin\Debug\AllControl.exe.config
+E:\01_workspace\ｃ＃\AllControl\AllControl\bin\Debug\AllControl.exe
+E:\01_workspace\ｃ＃\AllControl\AllControl\bin\Debug\AllControl.pdb
+E:\01_workspace\ｃ＃\AllControl\AllControl\obj\Debug\AllControl.main_form.resources
+E:\01_workspace\ｃ＃\AllControl\AllControl\obj\Debug\AllControl.Properties.Resources.resources
+E:\01_workspace\ｃ＃\AllControl\AllControl\obj\Debug\AllControl.csproj.GenerateResource.Cache
+E:\01_workspace\ｃ＃\AllControl\AllControl\obj\Debug\AllControl.exe
+E:\01_workspace\ｃ＃\AllControl\AllControl\obj\Debug\AllControl.pdb
+E:\01_workspace\ｃ＃\AllControl\AllControl\obj\Debug\AllControl.csprojResolveAssemblyReference.cache

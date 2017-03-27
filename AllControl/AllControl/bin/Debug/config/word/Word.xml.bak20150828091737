@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<WordStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WordList>
+    <Word>
+      <JpWord>くるり</JpWord>
+      <Jp2Word>くるり</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>※軽く一回転するさま。一巻きするさま</string>
+        <string>　　希美はストンと椅子から降りると、オーダーをとりにきた初老の女性の後ろを「くるり」と廻って私の横に立った。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>あるいは</JpWord>
+      <Jp2Word>あるいは</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>いい絵だなぁ、と言おうとしたのか、きれいだなぁ、と言おうとしたのか、「あるいは」驚いたなぁ、と言おうとしたのか、自分でも分からなかった。</string>
+        <string>とにかく、私たちはついに出会ったのだ。息を呑むような、美しい虹と。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>冷やす</JpWord>
+      <Jp2Word>ひやす</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>初老の女性が、希美に穏やかな微笑みを向けながら、テーブルの上に二つお冷を置いた。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>温もり</JpWord>
+      <Jp2Word>ぬくもり</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>無機質な機械で合理的に作られた直線と直角だけの建物とは違い、「粗」も含めた人間の手作業によるぬくもりが店内にふわふわと満ちていて、妙なくらいに居心地がいいのだ。</string>
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>佇まい</JpWord>
+      <Jp2Word>たたずまい</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>立っているようす。また、そのものからかもしでされている雰囲気。</string>
+        <string>　　　庭園の落ちついたたたずまい</string>
+        <string />
+        <string>人の生き方、暮らし方。また、生業。たたずみ。</string>
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>小ぢんまり</JpWord>
+      <Jp2Word>こぢんまり</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>小さいながら程よくまとまり、落ち着きのあるさま。</string>
+        <string>　　　　こぢんまりした家。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>窮屈</JpWord>
+      <Jp2Word>きゅうくつ</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>ゆったりしていない、せまい</string>
+        <string>　　　　窮屈な家。</string>
+        <string>　　　　子供が大きくなって着物が窮屈になった。</string>
+        <string>　　　　みんな入るには、入ったがひどく窮屈だった。</string>
+        <string>気詰まり、心地よくない。　（ここち）</string>
+        <string>　　　　窮屈な感じをあたえる。</string>
+        <string>　　　　叔父さんの家にいるのが窮屈だ。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>呟く</JpWord>
+      <Jp2Word>つぶやく</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>小さい声で、ひとりごとをいう</string>
+        <string>　　不平をつぶやく</string>
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>堪能</JpWord>
+      <Jp2Word>たんのう</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>すぐれている。技芸、学問などに習熟していること</string>
+        <string>　　ピアノにたんのうである。</string>
+        <string>十分満足すること</string>
+        <string>　　十分堪能した。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>留守番</JpWord>
+      <Jp2Word>るすばん</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>主人や家人が外出した後、残って家の番をすること。まだ、番をする人</string>
+        <string>　　子供に留守番を頼んで買い物に出かけた。</string>
+        <string>　　店の留守番をする。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>包まる</JpWord>
+      <Jp2Word>くるまる</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>体がつっぽり包まれる。</string>
+        <string>　　布団に包まって休む。</string>
+        <string>　　厚いオーバーに包まっている。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>煽られる</JpWord>
+      <Jp2Word>あおられる</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>強い風にあおられた大粒の雨滴が、窓ガラスを叩いたのだ。</string>
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>羽毛</JpWord>
+      <Jp2Word>うもう</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>羽毛布団のぬくもりのなか、薄く目を開ける。</string>
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>遮光</JpWord>
+      <Jp2Word>しゃこう</Jp2Word>
+      <CnWord />
+      <Example>
+        <string />
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>隙間</JpWord>
+      <Jp2Word>すきま</Jp2Word>
+      <CnWord />
+      <Example>
+        <string />
+        <string />
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>覗く</JpWord>
+      <Jp2Word>のぞく</Jp2Word>
+      <CnWord />
+      <Example>
+        <string />
+        <string />
+        <string />
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>闇</JpWord>
+      <Jp2Word>やみ</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>遮光カーテンの隙間に覗くのは、まだ明け切らない春の矢の深い闇だった。</string>
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>しかも</JpWord>
+      <Jp2Word>しかも</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>夜中に何度もこうして目覚めてしまう。しかも、いったん目覚めたら最後、なかなか寝付けないのだ。</string>
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>自分なり</JpWord>
+      <Jp2Word>自分なり</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>まるで爺さんみたいだな、そう思いつつも、一方では眠りが浅くなる原因を自分なりに痛いほど理解してもいる。</string>
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>ごろんと</JpWord>
+      <Jp2Word>かたわら</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>身体をごろんと横にして、傍らから聞こえてくる平和で愛くるしい寝息に向き直った。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>蹴飛ばす</JpWord>
+      <Jp2Word>けとばす</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>いつものように掛け布団を蹴飛ばしていて、ほとんど身体にかかっていない。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>鏤める</JpWord>
+      <Jp2Word>ちりばめる</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>白と黒のウサギのキャラクターの絵をちりばめたお気に入りのパジャマもずり上がって、背中が丸出した。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>自ら</JpWord>
+      <Jp2Word>みずから</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>希のパジャマと掛け布団をそっと直してやり、自らも再び布団に潜り込んだ。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>ぼんやり</JpWord>
+      <Jp2Word>ぼんやり</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>小さな電球の明かりに黄色く浮かび上がる和室の天井をぼんやりと眺めながら、不意に持て余したこの暇な時間をどう使うべきかと考えた。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>憂鬱</JpWord>
+      <Jp2Word>ゆううつ</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>思えば、この三日間の暗然とした空は、私をひどく憂鬱にさせていた。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>隅々</JpWord>
+      <Jp2Word>すみずみ</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>鋭い銀系のような冷雨が世界の隅々から優しい色彩をすべて洗い流してしまうような、そんな気さえした。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>錘に、鈍い、浮上、墨色、塗り潰される</JpWord>
+      <Jp2Word>おもりに、にぶい、すみいろ、つぶされる</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>濡れて鈍い光る灰色の風景もまた、今の私にとっては心理的な錘になるばかりで、たまに現れる小さな浮上のきっかけまでも、薄墨色のモノトーンに塗りつぶされてしまうように思われた。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>鬱々</JpWord>
+      <Jp2Word>うつうつ</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>空がすっきりと晴れてさえくれれば……そうすれば、この鬱々とした気分も少しは晴れるかも知れないのに。</string>
+      </Example>
+    </Word>
+    <Word>
+      <JpWord>ひたすら、拍動</JpWord>
+      <Jp2Word>ひたすら、はくどう</Jp2Word>
+      <CnWord />
+      <Example>
+        <string>私の心臓は、この世のすべてに無関心な様子で、ひたすら平然と拍動を続けている。</string>
+      </Example>
+    </Word>
+  </WordList>
+</WordStore>

@@ -1,0 +1,9 @@
+E:\01_workspace\ｃ＃\WorkManager\WorkManager\bin\Debug\WorkManager.pdb
+E:\01_workspace\ｃ＃\WorkManager\WorkManager\obj\Debug\WorkManager.Properties.Resources.resources
+E:\01_workspace\ｃ＃\WorkManager\WorkManager\obj\Debug\WorkManager.csproj.GenerateResource.Cache
+E:\01_workspace\ｃ＃\WorkManager\WorkManager\obj\Debug\WorkManager.pdb
+E:\01_workspace\ｃ＃\WorkManager\WorkManager\obj\Debug\WorkManager.main_form.resources
+E:\01_workspace\ｃ＃\WorkManager\WorkManager\obj\Debug\WorkManager.WorkNameForm.resources
+E:\01_workspace\ｃ＃\WorkManager\WorkManager\bin\Debug\WorkManager.exe.config
+E:\01_workspace\ｃ＃\WorkManager\WorkManager\bin\Debug\WorkManager.exe
+E:\01_workspace\ｃ＃\WorkManager\WorkManager\obj\Debug\WorkManager.exe

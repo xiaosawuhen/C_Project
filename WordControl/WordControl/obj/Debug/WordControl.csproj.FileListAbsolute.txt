@@ -1,0 +1,8 @@
+E:\01_workspace\ｃ＃\WordControl\WordControl\bin\Debug\WordControl.pdb
+E:\01_workspace\ｃ＃\WordControl\WordControl\obj\Debug\WordControl.Properties.Resources.resources
+E:\01_workspace\ｃ＃\WordControl\WordControl\obj\Debug\WordControl.csproj.GenerateResource.Cache
+E:\01_workspace\ｃ＃\WordControl\WordControl\obj\Debug\WordControl.pdb
+E:\01_workspace\ｃ＃\WordControl\WordControl\obj\Debug\WordControl.main_form.resources
+E:\01_workspace\ｃ＃\WordControl\WordControl\bin\Debug\WordControl.dll.config
+E:\01_workspace\ｃ＃\WordControl\WordControl\bin\Debug\WordControl.dll
+E:\01_workspace\ｃ＃\WordControl\WordControl\obj\Debug\WordControl.dll
